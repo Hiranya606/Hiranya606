@@ -14,6 +14,6 @@
 
 **Prime or not.cpp** : Program to check whether a number is Prime or Not.
 
-**Second largest number.cpp** : Program that takes n elements from the user and displays the second largest elament of an array.
+**Second largest.cpp** : Program that takes n elements from the user and displays the second largest elament of an array.
 
 **Triangle.cpp** : Program to find pattern using loops
