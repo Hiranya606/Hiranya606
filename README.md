@@ -12,7 +12,7 @@
 
 **Fibonacci.cpp** : Program to display Fibonacci Series upto nth term.(using loops)
 
-**Prime or not** : Program to check whether a number is Prime or Not.
+**Prime or not.cpp** : Program to check whether a number is Prime or Not.
 
 **Second largest number.cpp** : Program that takes n elements from the user and displays the second largest elament of an array.
 
