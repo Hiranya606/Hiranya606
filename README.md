@@ -1,16 +1,19 @@
-          DSA BOOTCAMP ASSIGNMENT 
+                                                  DSA BOOTCAMP ASSIGNMENT 
+         
+         
+         
+         
+         
+**Swap.cpp** : Program to Swap to two numbers.
 
+**Largest number.cpp** : Program to find the largest number among three numbers entered by the user.
 
-Swap.cpp : Program to Swap to two numbers.
+**Leap year.cpp** : Program to check whether a year entered by a user is Leap year or not.
 
-Largest number.cpp : Program to find the largest number among three numbers entered by the user.
+**Fibonacci.cpp** : Program to display Fibonacci Series upto nth term.(using loops)
 
-Leap year.cpp : Program to check whether a year entered by a user is Leap year or not.
+**Prime or not** : Program to check whether a number is Prime or Not.
 
-Fibonacci.cpp : Program to display Fibonacci Series upto nth term.(using loops)
+**Second largest number.cpp** : Program that takes n elements from the user and displays the second largest elament of an array.
 
-Prime or not : Program to check whether a number is Prime or Not.
-
-Second largest number.cpp : Program that takes n elements from the user and displays the second largest elament of an array.
-
-Triangle.cpp : Program to find pattern using loops
+**Triangle.cpp** : Program to find pattern using loops
