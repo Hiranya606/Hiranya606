@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @Hiranya606
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+          DSA BOOTCAMP ASSIGNMENT 
 
-<!---
-Hiranya606/Hiranya606 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+Swap.cpp : Program to Swap to two numbers.
+
+Largest number.cpp : Program to find the largest number among three numbers entered by the user.
+
+Leap year.cpp : Program to check whether a year entered by a user is Leap year or not.
+
+Fibonacci.cpp : Program to display Fibonacci Series upto nth term.(using loops)
+
+Prime or not : Program to check whether a number is Prime or Not.
+
+Second largest number.cpp : Program that takes n elements from the user and displays the second largest elament of an array.
+
+Triangle.cpp : Program to find pattern using loops
